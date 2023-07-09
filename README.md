@@ -1,6 +1,7 @@
 # Champ Select Spy 2
 
 Forked from [tGecko/ChampSelectSpy](https://github.com/tGecko/ChampSelectSpy/) to offer some slight improvements; Namely to UI (Rewritten in WPF) and testing/implementing an OPGG python library I am writing.
+
 ![image](https://github.com/ShoobyDoo/ChampSelectSpy2/assets/49772243/67067457-033a-4ed9-812c-5e2c78cdd518)
 
 (UI is still very early in design, some slight deviations are to be expected)
